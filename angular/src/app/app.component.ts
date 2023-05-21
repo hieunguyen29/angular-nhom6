@@ -7,9 +7,5 @@ import { User } from './interface/user';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  User = {
-    name: "Hiếu Cún",
-    age: 20,
-    address: "Bắc Giang"
-  }
+  
 }
